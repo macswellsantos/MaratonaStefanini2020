@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/macswellsantos/MaratonaStefanini.git"
+    "url": "git+https://github.com/macswellsantos/MaratonaStefanini2020.git"
   },
   "author": "Mac-Swell Santos",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/macswellsantos/MaratonaStefanini/issues"
+    "url": "https://github.com/macswellsantos/MaratonaStefanini2020/issues"
   },
-  "homepage": "https://github.com/macswellsantos/MaratonaStefanini#readme",
+  "homepage": "https://github.com/macswellsantos/MaratonaStefanini2020#readme",
   "dependencies": {
     "angular": "^1.8.1",
     "grunt": "^1.3.0",
